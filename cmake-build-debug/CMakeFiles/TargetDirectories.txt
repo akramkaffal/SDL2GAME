@@ -1,0 +1,3 @@
+/Users/akramkaffal/CLionProjects/SDL2GAME/cmake-build-debug/CMakeFiles/SDL2GAME.dir
+/Users/akramkaffal/CLionProjects/SDL2GAME/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akramkaffal/CLionProjects/SDL2GAME/cmake-build-debug/CMakeFiles/rebuild_cache.dir
